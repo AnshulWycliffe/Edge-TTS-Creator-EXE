@@ -20,7 +20,7 @@ STEP2 : Select your required language
 
 ![Capture](https://github.com/AnshulWycliffe/Edge-TTS-Creator-EXE/assets/94105743/8f111d3d-2bf0-415a-9655-0005d6187dd7)
 
-STEP3 : Enter gender, then type your data for TTS.
+STEP3 : Enter gender of the TTS voice, then type your data for TTS.
 ![Capture](https://github.com/AnshulWycliffe/Edge-TTS-Creator-EXE/assets/94105743/ef1b2fe9-0e4f-4ef5-b4f0-6c2b9c5160cf)
 
 The audio will be played on your system speakers. The audio will be saved as **data.mp3**
