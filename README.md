@@ -1,3 +1,4 @@
+# PROJECT DESCRIPTION
 This is a console based version of TTS creation. As conventionally for edge-tts we have to use their command line for generating any tts. But this can help to more user-friendly. I manage to fetch 9 Languages which includes *__8 Indian Languages__*
 
 REQUIREMENTS
@@ -5,7 +6,7 @@ REQUIREMENTS
 2. Internet Connection
 3. Use the original/native scripts for TTS creation eg. Devnagri - Hindi, Latin - English
 
-
+# DEMONSTRATION 
 STEP1 : Enter 1 for begin the audio synthesis
 
 ![Capture](https://github.com/AnshulWycliffe/Edge-TTS-Creator-EXE/assets/94105743/4e6a75fb-d589-47b9-9050-70e6bbdf5215)
