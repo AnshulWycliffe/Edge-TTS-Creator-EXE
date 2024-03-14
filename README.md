@@ -1,5 +1,5 @@
 # PROJECT DESCRIPTION
-This is a console based version of TTS creation. As conventionally for edge-tts we have to use their command line for generating any tts. But this can help to more user-friendly. I manage to fetch 9 Languages which includes *__8 Indian Languages__*
+This is a console based version of TTS creation build on *__Python__*. As conventionally for edge-tts we have to use their command line for generating any tts. But this can help to more user-friendly. I manage to fetch 9 Languages which includes *__8 Indian Languages__*
 
 REQUIREMENTS
 1. 64-bits System
