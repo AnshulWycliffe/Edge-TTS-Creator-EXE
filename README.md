@@ -6,6 +6,11 @@ REQUIREMENTS
 2. Internet Connection
 3. Use the original/native scripts for TTS creation eg. Devnagri - Hindi, Latin - English
 
+LIBRARIES USED
+1. Pygame - for playback of audio
+2. edge-tts - for creating tts via cli
+3. pyfiglet - for creating fancy cmd text
+
 # DEMONSTRATION 
 STEP1 : Enter 1 for begin the audio synthesis
 
