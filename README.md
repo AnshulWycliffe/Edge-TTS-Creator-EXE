@@ -4,7 +4,9 @@ This is a console based version of TTS creation build on *__Python__*. As conven
 REQUIREMENTS
 1. 64-bits System
 2. Internet Connection
-3. Use the original/native scripts for TTS creation eg. Devnagri - Hindi, Latin - English
+3. Python 3.9 and above 
+4. pip install edge-tts
+5. Use the original/native scripts for TTS creation eg. Devnagri - Hindi, Latin - English
 
 LIBRARIES USED
 1. Pygame - for playback of audio
